@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<coverage generated="1575488293688" clover="3.2.0">
-  <project timestamp="1575488293688" name="All files">
-    <metrics statements="52" coveredstatements="52" conditionals="25" coveredconditionals="25" methods="18" coveredmethods="18" elements="95" coveredelements="95" complexity="0" loc="52" ncloc="52" packages="1" files="3" classes="3"/>
-    <file name="Schema.js" path="/Users/mikeeg/alchemy/career-track/jest-test-pt2/lib/Schema.js">
+<coverage generated="1575497730500" clover="3.2.0">
+  <project timestamp="1575497730500" name="All files">
+    <metrics statements="56" coveredstatements="56" conditionals="25" coveredconditionals="25" methods="19" coveredmethods="19" elements="100" coveredelements="100" complexity="0" loc="56" ncloc="56" packages="1" files="4" classes="4"/>
+    <file name="Schema.js" path="/Users/mikeeg/alchemy/career-track/jest-test-pt3/lib/Schema.js">
       <metrics statements="14" coveredstatements="14" conditionals="2" coveredconditionals="2" methods="4" coveredmethods="4"/>
       <line num="1" count="1" type="stmt"/>
       <line num="5" count="2" type="stmt"/>
@@ -19,7 +19,7 @@
       <line num="25" count="1" type="stmt"/>
       <line num="29" count="1" type="stmt"/>
     </file>
-    <file name="Validator.js" path="/Users/mikeeg/alchemy/career-track/jest-test-pt2/lib/Validator.js">
+    <file name="Validator.js" path="/Users/mikeeg/alchemy/career-track/jest-test-pt3/lib/Validator.js">
       <metrics statements="12" coveredstatements="12" conditionals="8" coveredconditionals="8" methods="2" coveredmethods="2"/>
       <line num="1" count="2" type="stmt"/>
       <line num="5" count="8" type="stmt"/>
@@ -34,7 +34,14 @@
       <line num="18" count="12" type="stmt"/>
       <line num="22" count="2" type="stmt"/>
     </file>
-    <file name="types.js" path="/Users/mikeeg/alchemy/career-track/jest-test-pt2/lib/types.js">
+    <file name="fs-functions.js" path="/Users/mikeeg/alchemy/career-track/jest-test-pt3/lib/fs-functions.js">
+      <metrics statements="4" coveredstatements="4" conditionals="0" coveredconditionals="0" methods="1" coveredmethods="1"/>
+      <line num="1" count="1" type="stmt"/>
+      <line num="3" count="1" type="stmt"/>
+      <line num="4" count="1" type="stmt"/>
+      <line num="7" count="1" type="stmt"/>
+    </file>
+    <file name="types.js" path="/Users/mikeeg/alchemy/career-track/jest-test-pt3/lib/types.js">
       <metrics statements="26" coveredstatements="26" conditionals="15" coveredconditionals="15" methods="12" coveredmethods="12"/>
       <line num="1" count="22" type="stmt"/>
       <line num="2" count="11" type="stmt"/>
