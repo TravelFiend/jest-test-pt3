@@ -1,5 +1,5 @@
 const fs = require('fs').promises;
-const { mkdirp, writeJSON } = require('../lib/fs-functions');
+const { mkdirp, writeJSON, readJSON } = require('../lib/fs-functions');
 
 describe('fs functions', () => {
     // describe('mkdirp', () => {
@@ -28,6 +28,18 @@ describe('fs functions', () => {
                         eyes: 2
                     }
                     ));
+                });
+        });
+    });
+
+    describe('read JSON', () => {
+        it('should grab a JSON object and parse it', () => {
+            return readJSON('./it/got/thing')
+                .then(contents => {
+                    expect(contents).toEqual({
+                        bald: true,
+                        eyes: 2
+                    });
                 });
         });
     });
