@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<coverage generated="1575497730500" clover="3.2.0">
-  <project timestamp="1575497730500" name="All files">
-    <metrics statements="56" coveredstatements="56" conditionals="25" coveredconditionals="25" methods="19" coveredmethods="19" elements="100" coveredelements="100" complexity="0" loc="56" ncloc="56" packages="1" files="4" classes="4"/>
+<coverage generated="1575508165957" clover="3.2.0">
+  <project timestamp="1575508165957" name="All files">
+    <metrics statements="58" coveredstatements="58" conditionals="25" coveredconditionals="25" methods="20" coveredmethods="20" elements="103" coveredelements="103" complexity="0" loc="58" ncloc="58" packages="1" files="4" classes="4"/>
     <file name="Schema.js" path="/Users/mikeeg/alchemy/career-track/jest-test-pt3/lib/Schema.js">
       <metrics statements="14" coveredstatements="14" conditionals="2" coveredconditionals="2" methods="4" coveredmethods="4"/>
       <line num="1" count="1" type="stmt"/>
@@ -35,11 +35,13 @@
       <line num="22" count="2" type="stmt"/>
     </file>
     <file name="fs-functions.js" path="/Users/mikeeg/alchemy/career-track/jest-test-pt3/lib/fs-functions.js">
-      <metrics statements="4" coveredstatements="4" conditionals="0" coveredconditionals="0" methods="1" coveredmethods="1"/>
+      <metrics statements="6" coveredstatements="6" conditionals="0" coveredconditionals="0" methods="2" coveredmethods="2"/>
       <line num="1" count="1" type="stmt"/>
       <line num="3" count="1" type="stmt"/>
       <line num="4" count="1" type="stmt"/>
       <line num="7" count="1" type="stmt"/>
+      <line num="8" count="1" type="stmt"/>
+      <line num="11" count="1" type="stmt"/>
     </file>
     <file name="types.js" path="/Users/mikeeg/alchemy/career-track/jest-test-pt3/lib/types.js">
       <metrics statements="26" coveredstatements="26" conditionals="15" coveredconditionals="15" methods="12" coveredmethods="12"/>
